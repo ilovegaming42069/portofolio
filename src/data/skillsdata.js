@@ -1,0 +1,22 @@
+export default [
+    "Python",
+    "Java",
+    "C/C++",
+    "Object-Oriented Programming (OOP)",
+    "Machine Learning",
+    "HTML",
+    "CSS",
+    "Javascript",
+    "SQL",
+    "Data Visualization",
+    "Statistics",
+    "Latex",
+    "Entrepeneurship",
+    "RESTful APIs",
+    "Ethical Hacking",
+    "Penetration Testing",
+    "Wireshark",
+    "Kali Linux",
+    "GitHub",
+    "Docker"
+];
